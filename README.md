@@ -1,6 +1,7 @@
 # LLM-APIs-Prototyping
 
 Links for inspiration:
+
 https://github.com/CompVis/stable-diffusion
 
 https://github.com/Significant-Gravitas/Auto-GPT
