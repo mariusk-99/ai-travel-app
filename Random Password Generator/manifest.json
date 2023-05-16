@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Random Password Generator",
+  "description": "Generate a random password and copy it to clipboard",
+  "version": "1.0",
+
+  "permissions": ["clipboardWrite", "activeTab"],
+  "icons": {
+    "16": "icons/16.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+
+  "browser_action": {
+    "default_popup": "index.html"
+  }
+}
