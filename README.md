@@ -1,6 +1,6 @@
 # LLM-APIs-Prototyping
 
-Links for inspiration:
+### Links for inspiration:
 
 https://github.com/CompVis/stable-diffusion
 
@@ -9,6 +9,12 @@ https://github.com/Significant-Gravitas/Auto-GPT
 https://github.com/AllenInstitute/openai_tools
 
 https://github.com/smol-ai/developer
+
+### Metasearch engines and Global Distribution Systems (GDS)
+
+https://www.siteminder.com/r/global-distribution-system/#what-is-gds-in-the-hotel-industry-
+
+https://en.wikipedia.org/wiki/Global_distribution_system
 
 ## Process flow
 
