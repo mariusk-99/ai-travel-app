@@ -1,5 +1,11 @@
 # LLM-APIs-Prototyping
 
+### App Description
+
+Dreaming to embark on your next adventure but don't like planning or doing research? maia travel uses cutting edge ai tools to tailor the perfect holiday just for you. Forget about the package tours that everyone is always taking.
+
+Discover the world you have never seen before with our budget friendly holidays designed for everyone.
+
 ### Links for inspiration:
 
 https://github.com/CompVis/stable-diffusion
