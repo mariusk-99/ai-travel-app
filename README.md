@@ -16,6 +16,10 @@ https://www.siteminder.com/r/global-distribution-system/#what-is-gds-in-the-hote
 
 https://en.wikipedia.org/wiki/Global_distribution_system
 
+## Testing Amadeus API:
+
+https://developers.amadeus.com/get-started/get-started-with-self-service-apis-335
+
 ## Process flow
 
 ![image](https://github.com/ikharitonov/LLM-APIs-Prototyping/assets/68790682/dbcc2f7a-e3b2-49e0-9beb-a94893d235e4)
