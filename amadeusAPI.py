@@ -1,8 +1,8 @@
 from amadeus import Client, ResponseError
 
 amadeus = Client(
-    client_id='ulVH5r4YFKMxhaBOx6YVq5UxR1Qxsely',
-    client_secret='O1unGcw4cnDh6GDZ'
+    client_id='xxxxx',
+    client_secret='xxxxxx'
 )
 
 try:
