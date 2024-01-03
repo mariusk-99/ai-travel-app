@@ -1,0 +1,6 @@
+streamlit
+langchain
+openai==0.28.1
+wikipedia
+chromadb
+tiktoken
