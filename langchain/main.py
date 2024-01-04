@@ -1,6 +1,4 @@
 import os
-from apikey import apikey
-
 import streamlit as st
 from langchain_community.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
@@ -8,7 +6,7 @@ from langchain.chains import LLMChain
 from langchain.memory import ConversationBufferMemory
 from langchain.utilities.wikipedia import WikipediaAPIWrapper
 
-os. environ['OPENAI_API_KEY'] = apikey
+os.environ['OPENAI_API_KEY'] = os.environ.get("OPENAI_API_KEY")
 
 # App framework
 st.title("🦜️🔗 YouTube GPT Creator")
